@@ -2,7 +2,7 @@ body {
     font-family: "jost", sans-serif;
 }
 
-/* NavBar Section-------------------- */
+/* NavBar Section */
 #MainNavbar {
 
     background-color: #181e27;
@@ -26,7 +26,9 @@ body {
     color: #d4a373;
 }
 
-/* Hero Section-------------------- */
+/* End of NavBarSection */
+
+/* Hero Section */
 #hero-section {
     background-image: url(hero-img/hero-img.jpg);
     background-position: top left;
@@ -39,7 +41,9 @@ body {
     text-shadow: 5px 5px 10px rgba(255, 255, 255, .2);
 }
 
-/* Content Section-------------------- */
+/* End of Hero Section */
+
+/* Content Section */
 #item1-section {
     background-color: #edf2f4;
 }
@@ -52,7 +56,9 @@ body {
     background-color: #edf2f4;
 }
 
-/* Footer Section-------------------- */
+/* End of Content Section */
+
+/* Footer Section */
 #footer-section {
     background-color: #181e27;
 }
@@ -77,7 +83,9 @@ h2.section-3-heading {
     border-top: 0.1rem solid #aaa;
 }
 
-/* Media Queries -------------------------------------------------- */
+/* End of Footer Section */
+
+/* Media Queries -------------------- */
 /* XXL */
 @media (max-width: 1400px) {
     #hero-section .hero-text {
