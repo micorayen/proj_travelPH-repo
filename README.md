@@ -2,11 +2,11 @@
 
 <br>
 
-_A webpage written in using HTML, CSS and Bootstrap_
+_A webpage written in using HTML, CSS, Bootstrap and also Responsive Design_
 
 ## Description
 
- The idea of t-Philippines, is to give insight on some of the most popular destinations among tourists in the philippines include Palawan, Siargao, and Batanes. **Used:** HTML, CSS and Bootstrap.
+ The idea of t-Philippines, is to give insight on some of the most popular destinations among tourists in the philippines include Palawan, Siargao, and Batanes. **Used:** HTML, CSS, Bootstrap and Responsive Design.
 
 ## Author
 
